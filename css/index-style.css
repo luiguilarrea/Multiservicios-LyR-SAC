@@ -1,0 +1,41 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+header {
+	width: 100%;
+	text-align: center;
+	background: #14385F;
+	margin: auto;
+	height: 70px;
+}
+
+#imagen {
+	position: left;
+}
+
+
+body{
+	font-family: arial;
+	background: #BDD3EC;
+}
+
+.menuhtml a{
+	
+	width: 50%;
+	max-width: 1000px;
+	text-decoration: none;
+	color: white;
+	padding: 50;
+}
+
+.menuhtml li{
+	
+	text-align: center;
+
+}	
+.menuhtml li a:hover{
+	background:#676C71
+ }
+
